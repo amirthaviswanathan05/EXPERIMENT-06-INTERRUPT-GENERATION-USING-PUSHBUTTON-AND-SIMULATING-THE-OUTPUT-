@@ -69,7 +69,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 
 ## STM 32 CUBE PROGRAM :
-'''
+```
 #include "main.h"
 void SystemClock_Config(void);
 static void MX_GPIO_Init(void);
@@ -154,7 +154,6 @@ void assert_failed(uint8_t *file, uint32_t line)
 }
 #endif
 ```
-
 
 ## Output screen shots of proteus  :
 ![380634290-715094ed-6512-44e7-ba4f-ded7fa1465d6](https://github.com/user-attachments/assets/e3562038-0803-4c32-bdbc-801f3966dbb8)
